@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-chats-analyzer",
+  "version": "1.0.0",
+  "description": "This application takes a whatsapp chat log from an export and analyzes the mesasges, extracting information such as users, user total messages, certain messages, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerDW/whatsapp-chats-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KerDW/whatsapp-chats-analyzer/issues"
+  },
+  "homepage": "https://github.com/KerDW/whatsapp-chats-analyzer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,13 @@
+4/28/20, 22:40 - Edgar" ⚡: para que pare en el primero
+4/28/20, 22:40 - Alvaro: si
+4/28/20, 22:40 - Alvaro: es lo que estaba mirando
+4/28/20, 22:40 - Alvaro: si te fijas en la imagen q te paso se ve que se corta
+4/28/20, 22:43 - Alvaro: lo subo con el regex, parece que asi lo tira bien
+4/28/20, 22:43 - Edgar" ⚡: 👌🏻
+4/28/20, 22:47 - Edgar" ⚡: hay un caso en se el que fallaria
+4/28/20, 22:47 - Edgar" ⚡: Esto es, un mensaje
+con, comas
+4/28/20, 22:47 - Edgar" ⚡: cuando hay un salto de linea dentro del propio mensaje
+4/28/20, 22:48 - Alvaro: pero los mensajes de whatsapp pueden tener salto de linea?
+4/28/20, 22:48 - Alvaro: al exportar
+4/26/20, 22:48 - Edgar" ⚡: creo que si
