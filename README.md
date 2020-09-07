@@ -1,4 +1,4 @@
-This program was not made with just whatsapp in mind but right now it only exports that, you can analyze your whatsapp chats following these steps:
+This program was not just made with whatsapp in mind but right now it only analyzes exports from it, you can analyze your whatsapp chats following these steps:
 
 - Enter in a chat or group chat.
 - Click options (3 vertical dots).
